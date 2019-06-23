@@ -91,7 +91,7 @@ Typing : will bring up a list of suggested emoji. The list will filter as you ty
 For a full list of available emoji and codes, check out emoji-cheat-sheet.com.
 
 
-Ignoring Markdown formatting
+## Ignoring Markdown formatting
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
