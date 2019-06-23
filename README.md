@@ -67,3 +67,12 @@ To order your list, precede each line with a number.
 2. James Monroe
 3. John Quincy Adams
 
+
+
+## Task lists
+
+To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
