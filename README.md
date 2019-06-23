@@ -5,4 +5,5 @@
 ###### The smallest heading
 
 
-__ Hello __
+**This is bold text**    -> To Make Bold text
+  
