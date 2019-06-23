@@ -10,7 +10,7 @@
 ~~This was mistaken text~~ -> To Make Strike out the words
 **This text is _extremely_ important** -> To make Bold and italic word
 
-Quoting text
+**Quoting text**
 
 We can quote text with a >.
 
@@ -19,7 +19,7 @@ In the words of Anbazhagan:
 > He wants to become All-Rounder
 
 
-To format code or text into its own distinct block, use triple backticks.
+## To format code or text into its own distinct block, use triple backticks.
 
 Some basic Git commands are:
 ```
@@ -28,7 +28,7 @@ git add
 git commit
 ```
 
-Creating and highlighting code blocks
+## Creating and highlighting code blocks
 
 Share samples of code with fenced code blocks and enabling syntax highlighting.
 Fenced code blocks
