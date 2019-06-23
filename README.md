@@ -89,3 +89,11 @@ Rendered emoji
 Typing : will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press Tab or Enter to complete the highlighted result.
 
 For a full list of available emoji and codes, check out emoji-cheat-sheet.com.
+
+
+Ignoring Markdown formatting
+
+You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
