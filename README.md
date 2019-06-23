@@ -10,3 +10,13 @@
 ~~This was mistaken text~~ -> To Make Strike out the words
 **This text is _extremely_ important** -> To make Bold and italic word
 
+Quoting text
+
+We can quote text with a >.
+
+In the words of Anbazhagan:
+
+> He wants to become All-Rounder
+
+
+
