@@ -19,4 +19,14 @@ In the words of Anbazhagan:
 > He wants to become All-Rounder
 
 
+To format code or text into its own distinct block, use triple backticks.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+
 
