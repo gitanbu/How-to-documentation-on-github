@@ -145,3 +145,6 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 
 Visit https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
+## For Emoji
+
+Visit https://www.webfx.com/tools/emoji-cheat-sheet/
