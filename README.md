@@ -107,3 +107,41 @@ You can create tables with pipes | and hyphens -. Hyphens are used to create eac
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+
+
+Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the header row.
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## Formatting content within your table
+
+You can use formatting such as links, inline code blocks, and text styling within your table:
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+You can align text to the left, right, or center of a column by including colons : to the left, right, or on both sides of the hyphens within the header row.
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
+To include a pipe | as content within your cell, use a \ before the pipe:
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+
+## For more information
+
+Visit https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
