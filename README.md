@@ -53,3 +53,17 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+Lists
+
+You can make an unordered list by preceding one or more lines of text with - or *.
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+To order your list, precede each line with a number.
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
